@@ -1,8 +1,5 @@
 # COVID-19 Vaccination Slot Booking Script
 ## Update:
-### **We are getting all kinds of attention now - which I do not want to handle. So there won't be any additional commits to this project. It has been put on indefinite hold.**
-
-
 
 ### Important: 
 - This is a proof of concept project. I do NOT endorse or condone, in any shape or form, automating any monitoring/booking tasks. **Use at your own risk.**
@@ -10,9 +7,6 @@
 - Do NOT use unless all the beneficiaries selected are supposed to get the same vaccine and dose. 
 - There is no option to register new mobile or add beneficiaries. This can be used only after beneficiary has been added through the official app/site.
 - API Details (read the first paragraph at least): https://apisetu.gov.in/public/marketplace/api/cowin/cowin-public-v2
-- BMC Link: https://www.buymeacoffee.com/pallupz
-    - All donations, as they materialize, will be split equally between COVID Kerala CMDRF and a centre for cerebral palsied children with multiple handicaps.
-- Discord ID for DMs: pallupz#5726
 - And finally, I know code quality isn't great. Suggestions are welcome.
 
 ### Noteworthy Forks
